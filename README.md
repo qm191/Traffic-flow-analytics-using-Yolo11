@@ -88,10 +88,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ![alt text](Output_Sample_image.png)
 
-## 📧 Contact
-
-For any queries, reach out to me at **sruja2401@gmail.com**.
-
 ---
 
 ⚡ **Happy Coding!** 🚗🚦
