@@ -86,9 +86,12 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## 📷 Preview
 
-![alt text](Output_Sample_image.png)
+<img width="827" height="466" alt="image" src="https://github.com/user-attachments/assets/f1b35994-7855-40e6-b7df-b3e186777d5e" />
 
----
+<img width="886" height="497" alt="image" src="https://github.com/user-attachments/assets/3e36ae6f-af8a-4576-900d-78f6a34ecdcc" />
 
-⚡ **Happy Coding!** 🚗🚦
+<img width="886" height="496" alt="image" src="https://github.com/user-attachments/assets/1c82c015-4a86-429f-9276-1dffe4f73626" />
+
+
+
 
