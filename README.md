@@ -76,17 +76,13 @@ python main.py
 - Implement speed estimation of detected vehicles.
 - Export vehicle count data to a CSV file.
 
-## 🤝 Contributing
-
-Feel free to fork the repository, improve the project, and create a pull request!
-
 ## 📜 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## 📷 Preview
 
-<img width="827" height="466" alt="image" src="https://github.com/user-attachments/assets/f1b35994-7855-40e6-b7df-b3e186777d5e" />
+<img width="886" height="499" alt="image" src="https://github.com/user-attachments/assets/caa7242f-3917-4c36-b8a9-f408098c8c7a" />
 
 <img width="886" height="497" alt="image" src="https://github.com/user-attachments/assets/3e36ae6f-af8a-4576-900d-78f6a34ecdcc" />
 
