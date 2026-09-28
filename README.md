@@ -21,28 +21,6 @@ This project implements **vehicle detection and counting** using **YOLOv11** and
 
 ---
 
-## 📂 Project Setup
-
-### 1️⃣ Install Dependencies
-
-Ensure you have Python 3.8+ installed. Then, install the required libraries:
-
-```bash
-pip install ultralytics opencv-python numpy torch torchvision torchaudio
-```
-
-### 2️⃣ Download YOLO11 Model
-
-Download the **YOLO11 weights** file (`yolo11l.pt`) from [this link](https://docs.ultralytics.com/models/yolo11/#performance-metrics) and click on YOLO11l model to download the weights. Once downloaded, place it in the project directory.
-
-
-
-### 3️⃣ Run the Project
-
-```bash
-python main.py
-```
-
 ## 🎥 Input and Output
 
 - **Input:** Video file (`./test videos/test_1.mp4`)
@@ -75,10 +53,6 @@ python main.py
 - Add support for real-time webcam input.
 - Implement speed estimation of detected vehicles.
 - Export vehicle count data to a CSV file.
-
-## 📜 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## 📷 Preview
 
