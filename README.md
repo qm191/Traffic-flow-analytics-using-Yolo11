@@ -1,4 +1,4 @@
-# Traffic flow analytics using Yolo111
+# Traffic flow analytics using Yolo11
 
 **YOLOv11 (You Only Look Once)** is a state-of-the-art object detection model known for its speed and accuracy. It uses deep learning techniques to efficiently detect and track objects in images and videos, making it ideal for real-time applications like vehicle counting and traffic monitoring.
 
