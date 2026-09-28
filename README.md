@@ -45,7 +45,7 @@ python main.py
 
 ## 🎥 Input and Output
 
-- **Input:** Video file (`./test videos/test video_1.mp4`)
+- **Input:** Video file (`./test videos/test_1.mp4`)
 - **Output:** Processed video saved as `output_video.mp4`
 - **Visualization:** Displays the tracking results with bounding boxes and counts
 
