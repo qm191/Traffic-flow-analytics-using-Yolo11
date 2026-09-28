@@ -19,8 +19,6 @@ This project implements **vehicle detection and counting** using **YOLOv11** and
 - **PyTorch** (for YOLO model)
 - **Numpy** (Array manipulations)
 
----
-
 ## 🎥 Input and Output
 
 - **Input:** Video file (`./test videos/test_1.mp4`)
