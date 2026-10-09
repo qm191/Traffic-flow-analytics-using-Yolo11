@@ -4,14 +4,14 @@
 
 This project implements **vehicle detection and counting** using **YOLOv11** and OpenCV. It processes a video file to track and count vehicles that cross a predefined red line, providing real-time visualizations of the detections and counts.
 
-## 🚀 Features
+## Features
 
 - **Real-time vehicle detection and tracking** using YOLOv11.
 - **Counts vehicles** that cross a red line in the video.
 - **Bounding boxes and track IDs** displayed for each detected vehicle.
 - **Video output with overlayed tracking results** is saved.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python**
 - **YOLOv11** (Ultralytics)
@@ -19,13 +19,13 @@ This project implements **vehicle detection and counting** using **YOLOv11** and
 - **PyTorch** (for YOLO model)
 - **Numpy** (Array manipulations)
 
-## 🎥 Input and Output
+## Input and Output
 
 - **Input:** Video file (`./test videos/test_1.mp4`)
 - **Output:** Processed video saved as `output_video.mp4`
 - **Visualization:** Displays the tracking results with bounding boxes and counts
 
-## 📜 Code Explanation
+## Code Explanation
 
 1. **Loads YOLO model** using Ultralytics.
 2. **Reads input video** and extracts properties like width, height, and FPS.
@@ -34,7 +34,7 @@ This project implements **vehicle detection and counting** using **YOLOv11** and
 5. **Saves processed video** with detected objects and counts.
 6. **Displays real-time output** while processing.
 
-## 🎯 Customization
+## Customization
 
 - Change the input video path in `cap = cv2.VideoCapture('./test videos/test video_1.mp4')`.
 - Modify `line_y_red = 430` to change the red line position.
@@ -46,13 +46,13 @@ This project implements **vehicle detection and counting** using **YOLOv11** and
   - `6` - Train 🚆
   - `7` - Truck 🚛
 
-## 📝 Future Improvements
+## Future Improvements
 
 - Add support for real-time webcam input.
 - Implement speed estimation of detected vehicles.
 - Export vehicle count data to a CSV file.
 
-## 📷 Preview
+## Preview
 
 <img width="886" height="499" alt="image" src="https://github.com/user-attachments/assets/caa7242f-3917-4c36-b8a9-f408098c8c7a" />
 
